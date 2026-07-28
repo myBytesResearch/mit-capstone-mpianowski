@@ -87,6 +87,6 @@ Full founder portfolio: [github.com/myBytesResearch](https://github.com/myBytesR
 **Mariusz Pianowski** - Co-Founder, [myBytes](https://mybytes.com)
 - 🎓 [MIT Professional Education - Applied AI and Data Science (verified credential)](https://credentials.professional.mit.edu/b96204c8-87dc-4c8f-a27b-51a946695f00)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariusz-p-34780316/)
-- 🔗 Full write-up: [mybytes.com/research](https://mybytes.com/research)
+- 🔗 Full write-up: [Customer Segmentation with Clustering](https://mybytes.com/en/research/customer-segmentation-clustering) on mybytes.com/research
 
 *License: code MIT. Dataset rights remain with the original publisher.*
