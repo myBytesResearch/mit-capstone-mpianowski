@@ -90,3 +90,9 @@ Full founder portfolio: [github.com/myBytesResearch](https://github.com/myBytesR
 - 🔗 Full write-up: [Customer Segmentation with Clustering](https://mybytes.com/en/research/customer-segmentation-clustering) on mybytes.com/research
 
 *License: code MIT. Dataset rights remain with the original publisher.*
+
+## Write-up
+
+The full research article on this project (German):
+[Kundensegmentierung mit Clustering](https://mybytes.com/research/kundensegmentierung-clustering)
+(English version: https://mybytes.com/en/research/customer-segmentation-clustering)
